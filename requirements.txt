@@ -1,0 +1,4 @@
+telebot
+requests
+Faker
+beautifulsoup4
